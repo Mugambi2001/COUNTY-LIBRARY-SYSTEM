@@ -1,6 +1,6 @@
 /*
 COUNTY LIBRARY MANAGEMENT SYSTEM
-BY PROGRAMMER ALEXANDER
+BY KELVIN MUGAMBI
 FEB 2022
 MIT LISENCE
 C99 COMPILER
@@ -65,7 +65,7 @@ case 4:
 int main()
 {
    printf("COUNTY LIBRARY SYSTEM!\n");
-   printf("WELCOME PROGRAMMER ALEXANDER!\n");
+   printf("WELCOME KELVIN MUGAMBI !\n");
    execute_action(menu());
    return 0;
 }
